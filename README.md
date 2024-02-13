@@ -1,6 +1,5 @@
  ![Apresentando ReaNotes](https://github.com/Jose-leandro/ReaNotes/assets/104599482/73c54a7f-2ae8-4b54-b020-76e258e269cb)
 
-
 ## ReaNotes: Mais do que um bloco de notas, a sua central de ideias, pensamentos e lembretes!
 
 ### Cansado de perder ideias geniais por não ter tempo ou praticidade para anotá-las? 
@@ -30,7 +29,7 @@ Desvende a magia do primeiro contato com o projeto através desta imagem, onde c
 ## *Hospedagem do projeto*
 
 Para dar vida ao meu projeto, escolhi a poderosa plataforma de hospedagem Vercel, Sinta-se à vontade para explorar cada detalhe e funcionalidade deste projeto clicando neste
-[Link]()
+[Link](https://rea-notes.vercel.app/)
 
 
 ## *Tecnologias utilizadas no projeto*
