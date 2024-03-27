@@ -2,6 +2,8 @@ import React, { type ChangeEvent, useState } from 'react'
 import logo from './assets/logo.svg'
 import { NoteCard } from './components/note-card'
 import { NewNoteCard } from './components/new-note-card'
+import './styles/gobal.sass'
+import './styles/reset.sass'
 
 interface Note {
   id: string
@@ -61,7 +63,7 @@ export function App (): JSX.Element {
     : notes
 
   return (
-    <div className="mx-auto max-w-6xl my-12 space-y-6 px-5" >
+    <div className="contener">
       <img src={logo} alt="NLW EXpert" />
 
       <form className='w-full'>
